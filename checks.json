@@ -1,0 +1,7 @@
+[
+  {"args": ["patch_context_check.py", "fixtures/clean.patch", "fixtures/base.txt"], "exit": 0},
+  {"args": ["patch_context_check.py", "fixtures/mismatch.patch", "fixtures/base.txt"], "exit": 1},
+  {"args": ["patch_context_check.py", "fixtures/unsupported.patch", "fixtures/base.txt"], "exit": 2},
+  {"args": ["patch_context_check.py", "fixtures/insert.patch", "fixtures/base.txt"], "exit": 0},
+  {"args": ["patch_context_check.py", "--help"], "exit": 0}
+]

@@ -1,0 +1,5 @@
+--- ignored-old-name
++++ ignored-new-name
+@@ -1 +1 @@
+-beta
++delta

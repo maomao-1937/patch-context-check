@@ -1,0 +1,4 @@
+--- ignored-old-name
++++ ignored-new-name
+@@ -0,0 +1 @@
++start
